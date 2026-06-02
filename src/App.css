@@ -1,0 +1,12 @@
+:root{
+  background-color: #ffff;
+}
+
+.Container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  colour: #000;
+}
